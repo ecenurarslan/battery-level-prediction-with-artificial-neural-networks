@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ECE/Desktop/Neuroph/Framework/neuroph-core-2.98.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECE/Desktop/Neuroph/Framework/libs/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECE/Desktop/Neuroph/Framework/libs/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECE/Desktop/Neuroph/Framework/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECE/Desktop/Neuroph/Framework/libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECE/Desktop/Neuroph/Framework/libs/visrec-api-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
